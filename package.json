@@ -1,0 +1,11 @@
+{
+  "name": "layers-middleware",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.coffee",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "express": "~3.3.5"
+  }
+}
